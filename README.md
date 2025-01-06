@@ -77,8 +77,8 @@ This Power BI dashboard provides an in-depth analysis of Adidas' sales data. It 
 ---
 
 ## **Getting Started**
-**file link** - 
-**published report** - 
+**file link** - https://github.com/Parththapliyal/Adidas-Sales-Analysis-Dashboard/blob/main/adidas%20sales%20analysis.pbix
+**published report** - https://app.powerbi.com/view?r=eyJrIjoiOGQ0ODkzYzctYmY5YS00NDFkLWEwOTQtYWUwOGM5Mzk1M2RiIiwidCI6ImU1ZjZjMDQ0LTIzODMtNDViZC05MTEyLTQxOGY2MjIzMjY1OCJ9
 
 ---
 
